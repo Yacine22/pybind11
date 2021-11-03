@@ -1,0 +1,5 @@
+/mnt/c/my_projects/case/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/my_projects/case/build/CMakeFiles/edit_cache.dir
+/mnt/c/my_projects/case/build/CMakeFiles/my_module.dir
+/mnt/c/my_projects/case/build/pybind11/CMakeFiles/rebuild_cache.dir
+/mnt/c/my_projects/case/build/pybind11/CMakeFiles/edit_cache.dir
